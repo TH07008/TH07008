@@ -1,2 +1,3 @@
 2025-12-25T20:52:29.000Z | Fix race condition
 2025-12-25T21:54:04.000Z | Add notification system
+2025-12-26T18:12:49.000Z | Simplify conditional logic
