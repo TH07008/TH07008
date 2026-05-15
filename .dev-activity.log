@@ -121,3 +121,4 @@
 2026-05-12T16:11:58.000Z | Fix linting errors
 2026-05-14T05:15:37.000Z | Add export to CSV
 2026-05-13T22:03:21.000Z | Fix race condition
+2026-05-15T09:49:36.000Z | Remove deprecated methods
