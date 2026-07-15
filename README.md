@@ -61,26 +61,6 @@ I work across the whole stack — on-chain programs, backend services, frontend,
 
 ---
 
-## 🚀 A few references
-
-> A selection — not the full picture. Each one is a different slice of the stack on purpose.
-
-| Reference | Stack | What it shows |
-| --- | --- | --- |
-| [**textsnap**](https://github.com/TH07008/textsnap) | Rust · ONNX · PaddleOCR-VL | A CPU-only OCR CLI — images, screenshots, URLs → text. No GPU, no cloud. |
-| [**hybrid-search**](https://github.com/TH07008/hybrid-search) | Rust · tantivy · nalgebra | In-memory hybrid search for RAG: BM25 + vector fused via Reciprocal Rank Fusion. |
-| [**agent-tools**](https://github.com/TH07008/agent-tools) | Rust · proc-macros | Type-safe LLM tool definitions — derive OpenAI JSON schemas from Rust types with `#[tool]`. Like pydantic/instructor for Rust. |
-| 🔒 **simple-store** | React · Vite · TS · Express · PostgreSQL | Full-stack e-commerce: cart/checkout, admin dashboard, CryptoPay payment SDK. |
-| 🔒 **cryptopay-payment-gateway** | React · Vite · TS · Express · PostgreSQL | Crypto payment gateway — BTC / ETH / SOL via CryptoPay SDK. |
-| 🔒 **solana-coin-presale** | Next.js 15 · Anchor · Solana | Token presale DApp with bonus tiers, affiliate program, hardened backend (CSP/CSRF/JWT, RPC proxies). |
-| 🔒 **soldice** | Anchor · React · Vite · Express · Redis | Provably-fair Solana dice betting DApp. |
-| 🔨 **pumpswap-monitor** | Rust · carbon-core · Yellowstone gRPC | Pump.fun swap monitoring / copy-trading bot. |
-| 🔨 **Solttery** | Anchor · React 19 · Vite · Express · Three.js | Solana lottery DApp with 3D frontend. |
-
-> 🔒 = private reference (walkthrough on request) · 🔨 = in progress / local. These are samples picked to span domains — plenty more lives off-profile.
-
----
-
 ## 📊 Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TH07008&show_icons=true&hide_border=true&count_private=true&theme=dark)
