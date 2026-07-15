@@ -1,14 +1,19 @@
-# Hi, I'm TH07008 👋
+# 👋 Hi, I'm TH07008
 
-**Full-stack & blockchain engineer** building production systems across **Rust**, **TypeScript** and **Solana** — from on-chain programs and payment rails to LLM/RAG infrastructure and CLI tools. Comfortable owning a product end‑to‑end: smart contracts, backend APIs, frontend, and the dev tooling in between.
+This profile holds a small, curated set of **references** — a handful of projects I keep public or share on request to give a quick impression of how I work and what I can deliver.
 
-- 🔧 Currently focused on **Solana / Anchor** DApps, **Rust** systems & AI tooling, and **crypto payment infrastructure**.
-- 🧪 I like shipping developer tools: type-safe LLM tool definitions, hybrid search engines, and OCR pipelines.
-- 🤝 Open to work — references & private project walkthroughs available on request.
+It's **not** an exhaustive portfolio, and it's **not** a statement of what I'm limited to. These are just a few examples chosen to show *range*, not *boundaries* — the point is breadth, not a ceiling.
+
+I work across the whole stack — on-chain programs, backend services, frontend, CLI tooling, and the glue in between — and I'm comfortable picking up unfamiliar territory quickly. The references below happen to cluster around **blockchain / Solana, Rust systems, AI / LLM infrastructure and full-stack web**, but that's a sample, not a definition.
+
+- 🔍 Want a walkthrough of a private reference? Just ask — happy to walk you through any of them.
+- 🤝 Open to new projects and roles; tech list below is illustrative, not exhaustive.
 
 ---
 
-## 🧰 Technology stack
+## 🧰 A glimpse of the tools I reach for
+
+> Just a sample of what I reach for — far from exhaustive.
 
 **Languages**
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&color=DEA584)
@@ -56,11 +61,13 @@
 
 ---
 
-## 🚀 Notable projects
+## 🚀 A few references
 
-| Project | Stack | What it does |
+> A selection — not the full picture. Each one is a different slice of the stack on purpose.
+
+| Reference | Stack | What it shows |
 | --- | --- | --- |
-| [**textsnap**](https://github.com/TH07008/textsnap) | Rust · ONNX · PaddleOCR-VL | CPU-based OCR CLI — images, screenshots, URLs → text. No GPU, no cloud. |
+| [**textsnap**](https://github.com/TH07008/textsnap) | Rust · ONNX · PaddleOCR-VL | A CPU-only OCR CLI — images, screenshots, URLs → text. No GPU, no cloud. |
 | [**hybrid-search**](https://github.com/TH07008/hybrid-search) | Rust · tantivy · nalgebra | In-memory hybrid search for RAG: BM25 + vector fused via Reciprocal Rank Fusion. |
 | [**agent-tools**](https://github.com/TH07008/agent-tools) | Rust · proc-macros | Type-safe LLM tool definitions — derive OpenAI JSON schemas from Rust types with `#[tool]`. Like pydantic/instructor for Rust. |
 | 🔒 **simple-store** | React · Vite · TS · Express · PostgreSQL | Full-stack e-commerce: cart/checkout, admin dashboard, CryptoPay payment SDK. |
@@ -70,15 +77,15 @@
 | 🔨 **pumpswap-monitor** | Rust · carbon-core · Yellowstone gRPC | Pump.fun swap monitoring / copy-trading bot. |
 | 🔨 **Solttery** | Anchor · React 19 · Vite · Express · Three.js | Solana lottery DApp with 3D frontend. |
 
-> 🔒 = private reference project · 🔨 = local / work-in-progress. Walkthroughs available on request.
+> 🔒 = private reference (walkthrough on request) · 🔨 = in progress / local. These are samples picked to span domains — plenty more lives off-profile.
 
 ---
 
-## 📊 By the numbers
+## 📊 Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TH07008&show_icons=true&hide_border=true&count_private=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TH07008&layout=compact&hide_border=true&theme=dark&count_private=true)
 
 ---
 
-*Built with attention to correctness, security and shipping.*
+*Curious about something outside this list? Just ask — chances are it's already in my wheelhouse, or I'll be up to speed fast.*
