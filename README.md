@@ -1,4 +1,4 @@
-# Hi, I'm peter 👋
+# Hi, I'm TH07008 👋
 
 **Full-stack & blockchain engineer** building production systems across **Rust**, **TypeScript** and **Solana** — from on-chain programs and payment rails to LLM/RAG infrastructure and CLI tools. Comfortable owning a product end‑to‑end: smart contracts, backend APIs, frontend, and the dev tooling in between.
 
@@ -60,9 +60,9 @@
 
 | Project | Stack | What it does |
 | --- | --- | --- |
-| [**textsnap**](https://github.com/peter3436/textsnap) | Rust · ONNX · PaddleOCR-VL | CPU-based OCR CLI — images, screenshots, URLs → text. No GPU, no cloud. |
-| [**hybrid-search**](https://github.com/peter3436/hybrid-search) | Rust · tantivy · nalgebra | In-memory hybrid search for RAG: BM25 + vector fused via Reciprocal Rank Fusion. |
-| [**agent-tools**](https://github.com/peter3436/agent-tools) | Rust · proc-macros | Type-safe LLM tool definitions — derive OpenAI JSON schemas from Rust types with `#[tool]`. Like pydantic/instructor for Rust. |
+| [**textsnap**](https://github.com/TH07008/textsnap) | Rust · ONNX · PaddleOCR-VL | CPU-based OCR CLI — images, screenshots, URLs → text. No GPU, no cloud. |
+| [**hybrid-search**](https://github.com/TH07008/hybrid-search) | Rust · tantivy · nalgebra | In-memory hybrid search for RAG: BM25 + vector fused via Reciprocal Rank Fusion. |
+| [**agent-tools**](https://github.com/TH07008/agent-tools) | Rust · proc-macros | Type-safe LLM tool definitions — derive OpenAI JSON schemas from Rust types with `#[tool]`. Like pydantic/instructor for Rust. |
 | 🔒 **simple-store** | React · Vite · TS · Express · PostgreSQL | Full-stack e-commerce: cart/checkout, admin dashboard, CryptoPay payment SDK. |
 | 🔒 **cryptopay-payment-gateway** | React · Vite · TS · Express · PostgreSQL | Crypto payment gateway — BTC / ETH / SOL via CryptoPay SDK. |
 | 🔒 **solana-coin-presale** | Next.js 15 · Anchor · Solana | Token presale DApp with bonus tiers, affiliate program, hardened backend (CSP/CSRF/JWT, RPC proxies). |
@@ -76,8 +76,8 @@
 
 ## 📊 By the numbers
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peter3436&show_icons=true&hide_border=true&count_private=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peter3436&layout=compact&hide_border=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TH07008&show_icons=true&hide_border=true&count_private=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TH07008&layout=compact&hide_border=true&theme=dark&count_private=true)
 
 ---
 
